@@ -1,2 +1,2 @@
-# i-learn-fabric
-im learning fabric modding!
+# i-learn-java
+im learning java!
